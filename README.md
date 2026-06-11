@@ -1,6 +1,6 @@
 # Driver Monitoring
 
-Teste tecnico Fullstack para a feature **Monitoramento de Motoristas**, desenvolvido em PHP/Laravel com MySQL.
+Teste técnico Fullstack para a feature **Monitoramento de Motoristas**, desenvolvido em PHP/Laravel com MySQL.
 
 ## Sobre a Feature
 
